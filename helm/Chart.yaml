@@ -1,0 +1,13 @@
+---
+apiVersion: v2
+name: self-hosted-nx-cache-server
+description: Helm chart for self hosted nx-cache-server
+type: application
+version: 0.1.0
+appVersion: 1.0.1
+
+maintainers:
+  - name: Mark Tanui
+    email: tanui@makershut.rocks
+    url: https://makershut.rocks
+...
